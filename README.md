@@ -1,1 +1,1 @@
-Alchemy 101 from sugar
+Alchemy 101 from Sugar
